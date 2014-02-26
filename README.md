@@ -1,9 +1,8 @@
 The question is
-{quote}
-Run a SQL Query
-{quote}
 
-The answer is 
+> Run a SQL Query
+
+The answer is:
 ```sql
 SELECT *
 FROM table
